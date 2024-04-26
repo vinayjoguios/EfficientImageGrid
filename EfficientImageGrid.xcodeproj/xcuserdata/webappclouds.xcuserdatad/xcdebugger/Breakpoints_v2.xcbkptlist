@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2B911F17-E22B-4466-8259-9CC2EB1E54E8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FFF2394-61B7-40E9-95D1-7F6FA8B61787"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EfficientImageGrid/SourceCode/ImageDetailsVC/ImageDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FFF2394-61B7-40E9-95D1-7F6FA8B61787 - 90fa865d9d1d2c63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EfficientImageGrid.ImageDetailsVC.setupUI() -&gt; ()"
+                  moduleName = "EfficientImageGrid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/webappclouds/Documents/VJ/EfficientImageGrid/EfficientImageGrid/SourceCode/ImageDetailsVC/ImageDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1672">
+               </Location>
+               <Location
+                  uuid = "9FFF2394-61B7-40E9-95D1-7F6FA8B61787 - 90fa865d9d1d2c42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EfficientImageGrid.ImageDetailsVC.setupUI() -&gt; ()"
+                  moduleName = "EfficientImageGrid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/webappclouds/Documents/VJ/EfficientImageGrid/EfficientImageGrid/SourceCode/ImageDetailsVC/ImageDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "9FFF2394-61B7-40E9-95D1-7F6FA8B61787 - 90fa865d9d1d2c42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EfficientImageGrid.ImageDetailsVC.setupUI() -&gt; ()"
+                  moduleName = "EfficientImageGrid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/webappclouds/Documents/VJ/EfficientImageGrid/EfficientImageGrid/SourceCode/ImageDetailsVC/ImageDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39D7F25C-0AA6-4D36-AD10-4C4BC54C879B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EfficientImageGrid/SourceCode/GridVC/ImageGridViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39D7F25C-0AA6-4D36-AD10-4C4BC54C879B - 623ae3ea4eead315"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EfficientImageGrid.ImageGridViewController.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "EfficientImageGrid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/webappclouds/Documents/VJ/EfficientImageGrid/EfficientImageGrid/SourceCode/GridVC/ImageGridViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "39D7F25C-0AA6-4D36-AD10-4C4BC54C879B - 8b1cfee8864bd909"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EfficientImageGrid.ImageGridViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "EfficientImageGrid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/webappclouds/Documents/VJ/EfficientImageGrid/EfficientImageGrid/SourceCode/GridVC/ImageGridViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5363A2E3-3A46-49FF-A2C2-B6EB9BF4DAC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EfficientImageGrid/SourceCode/ImageDetailsVC/ImageDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setImage(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64911285-7081-40A6-B413-5B59033F98FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EfficientImageGrid/Navigations/ScreenManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "push(storyboard:animated:getController:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
